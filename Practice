@@ -7,6 +7,7 @@
 
 <body>
 <h>hi</h>
+<p>HTML links are defined with the a tag. The link address is specified in the href attribute:</p>
 <p>Divya</p>
 <p>my practice!</p>
 </body>
